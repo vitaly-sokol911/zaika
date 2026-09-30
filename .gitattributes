@@ -1,0 +1,3 @@
+# Keep LF endings so the CSP hashes in index.html match the served bytes
+* text=auto eol=lf
+*.png binary
